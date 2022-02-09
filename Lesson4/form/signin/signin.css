@@ -1,0 +1,10 @@
+img{
+    width: 140px;
+    height: 150px;
+}
+
+.welcome{
+    position: absolute;
+    top: 40px;
+    left: 500px;
+}

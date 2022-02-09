@@ -1,3 +1,374 @@
-h1{
-    color: green;
+.class1{
+    position: absolute;
+    left: 140px;
+    top: 140px;
+    font-size: 30px;
+}
+
+img{
+    width: 140px;
+    height: 150px;
+}
+
+.class2{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.class3{
+    position: absolute;
+    font-size: smaller;
+    left: 141px;
+    top: 200px;
+}
+
+form{
+    position: absolute;
+    top: 40px;
+    left: 1090px;
+}
+
+.a1{
+    position: absolute;
+    top: 10px;
+    left: 1220px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.a2{
+    position: absolute;
+    top: 10px;
+    left: 1120px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.list01{
+    position: absolute;
+    left: 60px;
+    top: 345px;
+}
+
+.list02{
+    position: absolute;
+    left: 60px;
+    top: 365px;
+}
+
+.list03{
+    position: absolute;
+    left: 82px;
+    top: 385px;
+}
+
+.list1{
+    position: absolute;
+    left: 110px;
+    top: 405px;
+}
+
+.list2{
+    position: absolute;
+    left: 110px;
+    top: 425px;
+}
+
+.list3{
+    position: absolute;
+    left: 110px;
+    top: 445px;
+}
+
+.list4{
+    position: absolute;
+    left: 84px;
+    top: 465px;
+}
+
+.list5{
+    position: absolute;
+    left: 60px;
+    top: 485px;   
+}
+
+.list6{
+    position: absolute;
+    left: 60px;
+    top: 505px;    
+}
+
+.list7{
+    position: absolute;
+    left: 60px;
+    top: 525px;    
+}
+
+.contents{
+    position: absolute;
+    top: 315px;
+    left: 150px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+div{
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 130px;
+    box-sizing: border-box;
+    width: 350px;
+    height: 1px;
+}
+
+.introduction{
+    position: absolute;
+    left: 140px;
+    top: 560px;
+    font-size: 24px;
+}
+
+.class4{
+    font-family: sans-serif;
+    font-size: 14px;   
+}
+
+.softwaredef{
+    position: absolute;
+    left: 140px;
+    top: 745px;
+    font-size: 24px;   
+}
+
+.class5{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 330px;
+    right: 200px;
+    top: 805px;
+}
+
+.div2{
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 24px;
+    box-sizing: border-box;
+    width: 1250px;
+    height: 1px;
+}
+
+.img1{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 815px;
+    left: 272px;
+}
+
+.unordered{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+h4{
+    position: absolute;
+    font-family: sans-serif;
+    left: 35px;
+    top: 1115px;
+}
+
+.webdev{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.both{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 37px;
+    top: 1197px;
+}
+
+.bothlist{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: 1225px;
+}
+
+.frontend{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 37px;
+    top: 1290px;
+}
+
+.frontlist{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: 1320px;
+}
+
+.backend{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 37px;
+    top: 1482px;
+}
+
+.backlist{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    top: 1515px;
+}
+
+.color1{
+    color: red;
+}
+
+.color2{
+    color: red;
+}
+
+.note{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 37px;
+    top: 1685px;
+}
+
+.api{
+    position: absolute;
+    font-family: sans-serif;
+    left: 35px;
+    top: 1715px;   
+}
+
+.apitext{
+    position: absolute;
+    font-family: sans-serif;
+    top: 1755px;
+    font-size: 14px;
+}
+
+.hardware{
+    position: absolute;
+    left: 140px;
+    top: 1805px;
+    font-size: 24px;
+}
+
+.hardwaretext{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.also{
+    position: absolute;
+    left: 140px;
+    top: 1960px;
+    font-size: 24px;
+}
+
+.alsolist{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 125px;
+}
+
+.alsolist2{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 14px;
+    left: 770px;
+}
+
+/* hide and edit */
+
+.hide{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 330px;
+    left: 225px;
+}
+
+.intedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 595px;
+    left: 270px;
+}
+
+.softedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 781px;
+    left: 350px;
+}
+
+.webedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1140px;
+    left: 300px;
+}
+
+.frontedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1306px;
+    left: 175px;   
+}
+
+.bothedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1213px;
+    left: 80px;
+}
+
+.backedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1497px;
+    left: 170px;
+}
+
+.apiedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1740px;
+    left: 75px;
+}
+
+.hardedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1839px;
+    left: 360px;   
+}
+
+.alsoedit{
+    font-family: sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 1995px;
+    left: 234px;
 }
